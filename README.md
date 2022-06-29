@@ -8,6 +8,5 @@ Instalar um desses softwares
 ```
 Sublime, Atom, VS Code
 ```
-ge-programacao2022 programacaoquar
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
