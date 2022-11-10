@@ -6,8 +6,9 @@
 	}
 
 	#livraria {
-		width: 200px; 
-		height: 200px; 
+		width: 150px; 
+		height: 150px; 
+		position: absolute;
 		}
 
 	header {
@@ -16,8 +17,8 @@
 	}
 
 	#leitura {
-		width: 300px; 
-		height: 200px; 
+		width: 1000px; 
+		height: 400px; 
 		margin: auto;
 		display: block;
 	}
@@ -27,8 +28,10 @@
 		font-size: 50px;
 		color: darkblue;
 		border: 5px solid darkblue;
-		margin-left: 470px;
-		margin-right: 470px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 250px;
+		margin-right: 250px;
 	}
 
 		p {
@@ -58,24 +61,82 @@
 	font-style: italic; color: black;
 	text-align: center;
 	display: inline-block;
+	margin: 0 0 0 280px;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 nav li {
 	display: inline;
-	margin: 0 0 0 15px;
+	margin: 50 50 50 200px;
 }
 
 nav a{
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: bold;
+
 }
 
 .imagenssecundarias {
-	width: 290px;
-	height: 250px;
+	width: 250px;
+	height: 200px;
 	margin: auto;
 	display: inline-block;
+	margin: 0 0 0 35px;
 }
 
+.produtos {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	display: inline-grid;
+	margin: 120 0 0 10px;
+}
+
+.dicasdeleitura {
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	display: inline-block;
+	margin: 0 0 0 10px;
+}
+
+.algernon {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: inline-block;
+	margin: 50 200 100 400px;
+}
+
+.heidi {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: inline-block;
+	margin: 50 200 100 400px;
+}
+
+.estrelas {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: inline-block;
+	margin: 50 200 100 400px;
+}
+
+.despertar {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	display: inline;
+	margin: 50 0 0 200px;
+}
+
+.dicas{
+	display: inline;
+	margin: 0 0 0 20px;
+
+}
 
